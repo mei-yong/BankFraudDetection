@@ -1,4 +1,0 @@
-ID,First_Name,Last_Name,Address_Street,Address_City,Address_Postcode,Phone_Number,UKID,Bank_Account,Credit_Card,Unsecured_Loan
-1001,John,Doe,123 Random Street,London,EC1 123,555-555-5555,345-45-3456,2.34568E+15,1.23457E+15,
-1002,Jane,Appleseed,124 Random Street,London,EC1 124,555-555-5555,123-23-1234,3.45679E+15,1.23457E+15,4567890123456789-0
-1003,Matt,Smith,125 Random Street,London,EC1 125,555-555-1234,123-23-1234,4.56789E+15,,5678901234567890-0
