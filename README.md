@@ -6,3 +6,7 @@
 
 * Used the below tutorial as a foundation
     * https://github.com/neo4j-contrib/gists/blob/master/other/BankFraudDetection.adoc
+    
+    
+### Example Fraud Ring in Neo4j Browser
+![alt text](https://github.com/mei-yong/BankFraudDetection/blob/master/images/fraudring.JPG)
