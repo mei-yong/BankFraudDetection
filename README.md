@@ -10,7 +10,10 @@ More basic fraud detection methods work for many cases but not for all. The ones
 This mini-project involves looking at customers in a connected manner (instead of on a individual basis) to find patterns that could indicate a fraud ring
   * A group of people who mix and match a set of legitimate identification documents to create fake accounts. e.g. person A and B collaborate to create a new fake person C using person A's mobile and person B's social security number (could also be stolen IDs)
   * Difficult to use outlier analysis to catch these cases because when looking at fake person C on its own, they look perfectly normal as a customer. So when they build a seemingly legitimate credit score and request a huge loan in the future, the bank gives them the loan and they take the money and disappear.
-    
+
+TODO
+ * Cross channel - analyse anomaly behaviour correlated across channels
+
 
 ### Reference Materials
 * https://github.com/neo4j-contrib/gists/blob/master/other/BankFraudDetection.adoc
