@@ -18,6 +18,7 @@ This mini-project involves looking at customers in a connected manner (instead o
   
 ### File descriptions
 * BankFraudRings.ipynb - Jupyter notebook used to build and query the graph db
+* data - folder containing CSVs with info about customers, their contact details, and financial product information
 
 
 ### Example Fraud Ring in Neo4j Browser
